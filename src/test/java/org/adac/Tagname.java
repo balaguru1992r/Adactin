@@ -14,5 +14,9 @@ public static void main(String[] args) {
         WebElement findElement = driver.findElement(By.tagName("(a)"));
         findElement.click();
         
+        
+        System.out.println("123");
+        System.out.println("1233");
+        
 }
 }
